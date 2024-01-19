@@ -1,4 +1,5 @@
 1. Simulation and Probability Distributions in R
+   
    (a) A bank issues credit cards to customers.Based on the past data, the bank has found out that 75% of all accounts pay on time the bill.
    If a sample of 25 accounts is selected at random from the current database, construct the Binomial Probability Distribution of accounts paying on time. Plot the distribution of n clients paying on time.
    Hint: We have p=0.75 (pays on time), n=25 individuals, We need to calculate P(X=x) when x=0,1,2,3,4,5,…,25
