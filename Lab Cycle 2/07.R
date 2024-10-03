@@ -1,6 +1,7 @@
 # create a time series plot using the covid 19 dataset - real world dataset
 
 library(ggplot2)
+library(dplyr)
 
 path <- "E:/R/Lab Cycle 2 - Sem 5/time-series-19-covid-combined.csv"
 data <- read.csv(path)
