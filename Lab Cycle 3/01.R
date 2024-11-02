@@ -2,7 +2,6 @@
 
 library(ggplot2)
 
-#importing train.csv from the dataset
 path <- 'E:/R/Lab Cycle 3 - Sem 5/house_price/train.csv'
 data <- read.csv(path)
 
@@ -16,7 +15,7 @@ cat("Intercept:", intercept, "\n")
 
 ggplot(data, aes(x = GrLivArea, y = SalePrice)) +
   geom_point(alpha = 0.5) +  # Scatter plot of the data points
-  geom_abline(slope = slope, intercept = intercept, col = 'olivedrab', size = 1) +
+  geom_abline(slope = slope, intercept = intercept, col = 'olivedrab', linewidth = 1) +
   labs(title = "Linear Regression of House Prices vs Size",
        x = "Size (GrLivArea)",
        y = "Price (SalePrice)") +
