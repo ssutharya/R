@@ -1,7 +1,7 @@
 # Semester 5: 
 R Lab Cycle 1 - Completed
 
-R Lab Cycle 2 - In Progress
+R Lab Cycle 2 - Completed
 
 R Lab Cycle 3 - Completed
 
