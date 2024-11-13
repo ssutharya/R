@@ -3,7 +3,7 @@ R Lab Cycle 1 - Completed
 
 R Lab Cycle 2 - In Progress
 
-R Lab Cycle 3 - In Progress
+R Lab Cycle 3 - Completed
 
 
 # Probability and Statistics:
